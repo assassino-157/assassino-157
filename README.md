@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @assassino-157
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### boas vindas ao meu perfil 💙
 
-<!---
-assassino-157/assassino-157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+meu nome é Igor Ferreira de Andrade Caetano
+
+-estou estudando na [alura](https://www.alura.com.br)
+-estou me desenvolvendo na linguagem JavaScript
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+### você entrar em contato comigo 📫
+
+caetanoigor@gmail.com
+
+@igorcaetano
+
+![](https://media.tenor.com/Q-mh7Eya1ZAAAAAj/goku.gif)
