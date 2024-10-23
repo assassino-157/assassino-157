@@ -12,4 +12,4 @@ caetanoigor@gmail.com
 
 @igorcaetano
 
-![](https://media.tenor.com/Q-mh7Eya1ZAAAAAj/goku-16/)
+![image](https://github.com/user-attachments/assets/edc4fc67-6476-4dbf-9b4e-806a3372dc87)
